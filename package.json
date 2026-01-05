@@ -1,0 +1,9 @@
+{
+  "name": "flower-guestbook",
+  "version": "1.0.0",
+  "description": "A beautiful guestbook with AI features",
+  "private": true,
+  "scripts": {
+    "start": "echo 'This is a static site. Please serve index.html directly or use the Dockerfile provided.'"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "name": "new comments",
+  "description": "A sophisticated guestbook application featuring a public messaging board and an administrative dashboard with AI-powered sentiment analysis and response generation.",
+  "requestFramePermissions": []
+}
